@@ -11,10 +11,14 @@ Steps->
 
 2) Import this project in eclipse as an existing maven project.
 
-3) Open "application.properties" file and chnage the following entries (give the username and password of your postgres database) ->
+3) Open "application.properties" file and change the following entries (give the username and password of your postgres database) ->
+
       spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
+      
       spring.datasource.username=postgres
+      
       spring.datasource.password=postgres
+      
 
 3) Build the project using "clean install" , this will download all the dependencies.
 
