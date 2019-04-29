@@ -22,7 +22,7 @@ Steps->
 
 3) Build the project using "clean install" , this will download all the dependencies.
 
-4) In eclipse go to com.imtf.library.App.java and run the main method as a "Java Application".
+4) In eclipse go to "com.imtf.library.App.java" and run the main method as a "Java Application".
 
 5) This application runs on port 8084.
 
