@@ -1,4 +1,5 @@
 # springboot-library-microservice
+Backend service for "Book Library Application" that connects to postgres database.
 
 Prerequisite ->
 ----
